@@ -1,2 +1,1 @@
-# react-task-6
-portfolio including all previous tasks
+# React-Task6
